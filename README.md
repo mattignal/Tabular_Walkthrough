@@ -1,5 +1,7 @@
 # Tabular Data Walkthrough
 
+!(https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/0/49/0491e2f9-1928-57ae-99df-4534f2bc924f/5b58983fd1c37.image.jpg?resize=1700%2C1118)
+
 ## Summary
 
 The following is a brief write-up of the process to come up with a model for predicting how many meals will be ordered by 
