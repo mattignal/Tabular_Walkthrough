@@ -23,7 +23,7 @@ classification algorithms: logistic regression, nearest neighbors, random forest
 
 ## Analysis
 
-The last of these showed the lowest cross-entropy loss (about 0.31 compared to the baseline of of 0.38) on the validation set 
+The neural network showed the lowest cross-entropy loss (about 0.31 compared to the baseline of of 0.38) on the validation set 
 and it’s predictions were well-calibrated, so I used the probabilities from its predictions as the basis for estimating how 
 many meals were to be ordered. However, when I applied it to the ‘meals to be sent’ dataset, I noticed a dramatic 
 inconsistency in the predictions. I concluded this had to be due to the differences between the labeled data and the 
